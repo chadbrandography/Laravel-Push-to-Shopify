@@ -1,0 +1,139 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-template",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "16533191942f38abe6": {
+      "type": "banner-internal-pages",
+      "settings": {
+        "heading": "Fireplace Resources",
+        "heading_size": "regular_text",
+        "content": "Whether you're just starting your project or already have a fireplace and need troubleshooting tips, we can help. \n\nFind inspiration from our idea gallery, project planner, and product videos, or watch videos to learn to troubleshoot common issues.",
+        "btn_link": "",
+        "btn_text": "",
+        "image": "shopify:\/\/shop_images\/fireside_fireplace_resources.png",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "165331935820d3bb75": {
+      "type": "two-column-image-w-text",
+      "blocks": {
+        "b3388f1e-d777-4c9b-b28d-493579e86150": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fireside-family-twirling.jpg",
+            "title": "Plan Your Fireplace",
+            "text": "<p>Ready to make your fireplace dream a reality? We can't wait to help! Check out our planner tool to easily design and customize your fireplace to fit your style, space, and personality.<\/p>",
+            "button_label": "Plan Your Design",
+            "button_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0634\/4707\/2998\/files\/pre-consultation_checklist.pdf?v=1652895504"
+          }
+        },
+        "31d92e24-f960-448c-91ad-6acefccdaaeb": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fireside-symetrical-tables.jpg",
+            "title": "Project Gallery",
+            "text": "<p>Our gallery highlights just a few of our favorite fireplace projects. From wood to gas to electric, let us help inspire your design. <\/p>",
+            "button_label": "View Our Gallery",
+            "button_link": "shopify:\/\/pages\/project-gallery"
+          }
+        },
+        "0bb14046-f8bd-408d-9470-4ef9ddd8ef64": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fireside-product-videos.jpg",
+            "title": "Product Videos",
+            "text": "<p>Watch our product videos to learn more about how our unique products can enhance your home.<\/p>",
+            "button_label": "Watch Product Videos",
+            "button_link": "shopify:\/\/pages\/product-videos"
+          }
+        },
+        "621254af-5190-477d-b57c-aceeadd85590": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/beforeandafter.jpg",
+            "title": "Before & After Projects",
+            "text": "<p>From simple swaps to full remodels, we love seeing rooms transformed to make your house even more of a home.<\/p>",
+            "button_label": "View Projects",
+            "button_link": "shopify:\/\/pages\/before-after"
+          }
+        },
+        "16ea7ce4-a2aa-4311-8d29-7730fc34332d": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fireside-troubleshoot.jpg",
+            "title": "Troubleshoot Fireplace Issues",
+            "text": "<p>As with any fixture of your home, regular care and maintenance can extend the life of your fireplace. Learn tips from our experts on how to troubleshoot common issues. We'll help you recognize when a problem is DIY and when it's time to call the pros.<\/p>",
+            "button_label": "Watch Our Videos",
+            "button_link": "shopify:\/\/pages\/troubleshoot"
+          }
+        }
+      },
+      "block_order": [
+        "b3388f1e-d777-4c9b-b28d-493579e86150",
+        "31d92e24-f960-448c-91ad-6acefccdaaeb",
+        "0bb14046-f8bd-408d-9470-4ef9ddd8ef64",
+        "621254af-5190-477d-b57c-aceeadd85590",
+        "16ea7ce4-a2aa-4311-8d29-7730fc34332d"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "vertical_text": ""
+      }
+    },
+    "1653344327567f468c": {
+      "type": "featured-text",
+      "settings": {
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "mobile-padding-top": 80,
+        "mobile-padding-bottom": 80,
+        "bg_color": "",
+        "heading_text_alignment": "center",
+        "title": "Blog",
+        "paragraph_text_alignment": "center",
+        "content": "<p>Discover the latest trends in style and fireplace designs. Learn tips from our experts on the basics of caring for your fireplace.<\/p>",
+        "button_text_alignment": "center",
+        "button_label": "Visit Our Blog",
+        "button_link": "shopify:\/\/blogs\/news",
+        "button_type": "orange",
+        "customer_type": "none",
+        "button_label_2": "",
+        "button_link_2": "",
+        "button_type_2": "white",
+        "customer_type_2": "none",
+        "text_size": "featured_text",
+        "text_color": "",
+        "site_width": "mbl-site-width",
+        "html_id": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "wide_display": true,
+        "display_first_name": false,
+        "display_last_name": false,
+        "newsletter_title": "SIGN UP FOR OUR NEWSLETTER",
+        "newsletter_text": "<p>Be the first to get a sneak peek at the latest innovations in fireplace design and installation. Subscribe to our newsletter to view recent work, meet our designers, and inspire your next project. You'll also be the first to know about special promotions and exciting discounts to help you plan your fireplace.<\/p>",
+        "newsletter_section_text_align": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16533191942f38abe6",
+    "165331935820d3bb75",
+    "1653344327567f468c",
+    "newsletter"
+  ]
+}

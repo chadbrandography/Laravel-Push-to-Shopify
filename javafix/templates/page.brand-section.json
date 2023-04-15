@@ -1,0 +1,223 @@
+{
+  "sections": {
+    "1652295034e74bc08a": {
+      "type": "banner-internal-pages",
+      "settings": {
+        "heading": "Quality Brands You Can Trust",
+        "heading_size": "large_text",
+        "content": "At Fireside Hearth & Home, you'll find the top brand names in fireplace design. Our products range from elegant and modern to traditional and rustic. And no matter the setting or size of the space, you'll find the perfect fireplace to add ambiance.",
+        "btn_link": "",
+        "btn_text": "",
+        "image": "shopify:\/\/shop_images\/fireside-boy-airplane-dad.jpg",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1652375715b1e9507b": {
+      "type": "featured-text",
+      "settings": {
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "mobile-padding-top": 80,
+        "mobile-padding-bottom": 80,
+        "bg_color": "#ffffff",
+        "heading_text_alignment": "center",
+        "title": "Because memories are more than just the big moments.",
+        "paragraph_text_alignment": "center",
+        "content": "<p>We offer a variety of products to provide the best fireplace styles and solutions to match how you live.  Browse our wide selection of brand-name products from Heat & Glo, Heatilator, SimpliFire and more!<\/p>",
+        "button_text_alignment": "center",
+        "button_label": "",
+        "button_link": "",
+        "button_type": "white",
+        "customer_type": "none",
+        "button_label_2": "",
+        "button_link_2": "",
+        "button_type_2": "white",
+        "customer_type_2": "none",
+        "text_size": "featured_text",
+        "text_color": "#3d484e",
+        "site_width": "mbl-site-width",
+        "html_id": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16527302508a5ad94e": {
+      "type": "brands",
+      "blocks": {
+        "156cdf47-8fb9-4c63-92e6-c6063565b331": {
+          "type": "text",
+          "settings": {
+            "title": "Heat & Glo",
+            "image": "shopify:\/\/shop_images\/fireside_brands_heatnglo.jpg",
+            "brand_desc": "Heat & Glo products are innovative, safe, and beautifully styled to fit seamlessly with your décor. Make amazing memories in a warm, alluring environment with Heat & Glo.",
+            "link": "\/collections\/vendors?q=Heat%20%26%20Glo"
+          }
+        },
+        "11f7ddff-f5fc-4605-8706-1faf6dba4865": {
+          "type": "text",
+          "settings": {
+            "title": "Stellar by Heat & Glo",
+            "image": "shopify:\/\/shop_images\/fireside_brands_stellar.jpg",
+            "brand_desc": "Stellar combines bold creativity and advanced technology collaboratively with your vision. With Stellar, you can create showstopping custom fireplaces from 4' - 22' wide, up to 6' tall, and in single, two, three or four-sides for both indoor and outdoor spaces.",
+            "link": ""
+          }
+        },
+        "4a02041c-1241-4301-aed2-52d0e86e675c": {
+          "type": "text",
+          "settings": {
+            "title": "Heatilator",
+            "image": "shopify:\/\/shop_images\/fireside_brands_heatilator.jpg",
+            "brand_desc": "Value mixed with dependability. Established in 1927, Heatilator has built a long-standing reputation for providing quality, dependable hearth products. Today, Heatilator remains the most preferred, recommended and installed fireplace brand among building professionals.",
+            "link": "\/collections\/vendors?q=Heatilator"
+          }
+        },
+        "ab3b1013-4ac1-4b5d-ac74-99b034cdd9f9": {
+          "type": "text",
+          "settings": {
+            "title": "SimpliFire",
+            "image": "shopify:\/\/shop_images\/fireside_brands_simplifire.jpg",
+            "brand_desc": "With an electric fireplace all you need is a nearby outlet to enjoy a soothing and welcoming mood in any room. Plug it in and let the ambiance pour over you.",
+            "link": "\/collections\/vendors?q=SimpliFire"
+          }
+        },
+        "54c133cc-aa30-41e1-b63f-535c317dc660": {
+          "type": "text",
+          "settings": {
+            "title": "Quadra-Fire",
+            "image": "shopify:\/\/shop_images\/brand-quadra-fire.jpg",
+            "brand_desc": "Pure performance. From townhouse or cabin to urban or suburban, Quadra-Fire is the heating source for any walk of life with an award-winning performance streak that's unrivaled in the industry. Its stunning flame and environmentally friendly emissions make Quadra-Fire a perfect addition to your home.",
+            "link": "\/collections\/vendors?q=Quadra-Fire"
+          }
+        },
+        "da289edb-ec5b-4cb4-94bd-f347440e709e": {
+          "type": "text",
+          "settings": {
+            "title": "Vermont Castings",
+            "image": "shopify:\/\/shop_images\/fireside-vermont-castings.jpg",
+            "brand_desc": "Passion and pride are infused into every element of Vermont Castings stoves, resulting in the timeless designs and furniture-quality finishes that are the hallmarks of American craftsmanship.",
+            "link": ""
+          }
+        },
+        "2887bab9-9fa5-4e57-850b-2df1fd9e0698": {
+          "type": "text",
+          "settings": {
+            "title": "Harman",
+            "image": "shopify:\/\/shop_images\/fireside_brands_harman.jpg",
+            "brand_desc": "Harman pellet stoves are heating solutions built to withstand the test of time with reliable warmth and aesthetic elegance. Each and every product is designed for optimal performance and engineering excellence.",
+            "link": ""
+          }
+        },
+        "61476fe1-5f14-442c-adb1-d7831d879ff0": {
+          "type": "text",
+          "settings": {
+            "title": "Outdoor Lifestyles",
+            "image": "shopify:\/\/shop_images\/fireside_brands_outdoorlifestyles.jpg",
+            "brand_desc": "Completely transform your outdoor living space. Create a fun and functional living area for the whole family to enjoy, while producing an ambiance that only a live fire can provide.",
+            "link": "\/collections\/vendors?q=Outdoor%20Lifestyles"
+          }
+        },
+        "755ddc12-59c0-490e-842c-6463ae971263": {
+          "type": "text",
+          "settings": {
+            "title": "Outdoor GreatRoom",
+            "image": "shopify:\/\/shop_images\/BC-20-WO_glass_guard_lifestyle-720x454.png",
+            "brand_desc": "The perfect addition to any outdoor space! Easily add Outdoor GreatRoom gas fire pit tables to patios, decks, and backyards. Available in a variety of styles and sizes.",
+            "link": "shopify:\/\/collections\/fire-tables"
+          }
+        },
+        "31096fe5-bbeb-4800-8151-6727f096a07c": {
+          "type": "text",
+          "settings": {
+            "title": "Monessen",
+            "image": "shopify:\/\/shop_images\/fireside_brands_monessen.jpg",
+            "brand_desc": "Monessen offers vent free fireplaces, fireboxes, and gas log sets known for their unparalleled detail, lively flame, and abundant heat. A great way to add warmth and ambiance without extensive remodeling.",
+            "link": "shopify:\/\/collections\/monessen"
+          }
+        },
+        "974a65c2-2d9f-4ab3-9aba-eead7ec60d06": {
+          "type": "text",
+          "settings": {
+            "title": "Fireside Finishings",
+            "image": "shopify:\/\/shop_images\/online-Kenwood_mantel_primed_StGray-720x454.png",
+            "brand_desc": "With a broad range of wood mantels and stone selections, Fireside Finishings brings thoughtful details together to transform a simple fireplace into a beautiful showpiece. It's the finishing touch to turn your room into a natural reflection of your dreams and style.",
+            "link": "shopify:\/\/collections\/mantels-stonework"
+          }
+        }
+      },
+      "block_order": [
+        "156cdf47-8fb9-4c63-92e6-c6063565b331",
+        "11f7ddff-f5fc-4605-8706-1faf6dba4865",
+        "4a02041c-1241-4301-aed2-52d0e86e675c",
+        "ab3b1013-4ac1-4b5d-ac74-99b034cdd9f9",
+        "54c133cc-aa30-41e1-b63f-535c317dc660",
+        "da289edb-ec5b-4cb4-94bd-f347440e709e",
+        "2887bab9-9fa5-4e57-850b-2df1fd9e0698",
+        "61476fe1-5f14-442c-adb1-d7831d879ff0",
+        "755ddc12-59c0-490e-842c-6463ae971263",
+        "31096fe5-bbeb-4800-8151-6727f096a07c",
+        "974a65c2-2d9f-4ab3-9aba-eead7ec60d06"
+      ],
+      "settings": {
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1652735440d704c89c": {
+      "type": "featured-text",
+      "settings": {
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "mobile-padding-top": 80,
+        "mobile-padding-bottom": 80,
+        "bg_color": "",
+        "heading_text_alignment": "center",
+        "title": "Explore Our Brands In Person",
+        "paragraph_text_alignment": "center",
+        "content": "<p>In addition to browsing our products online, you can also experience our stunning selection of fireplaces in person. <br\/><br\/>Showroom walk-ins are encouraged, or you can schedule an appointment to work directly with one of our fireplace experts. We'll help you find the right products and design to fit any application. We also offer free in-home or virtual consultations. <\/p>",
+        "button_text_alignment": "center",
+        "button_label": "Find A Fireside",
+        "button_link": "https:\/\/fireside-hearth-and-home.myshopify.com\/pages\/store-locator",
+        "button_type": "orange",
+        "customer_type": "none",
+        "button_label_2": "",
+        "button_link_2": "",
+        "button_type_2": "white",
+        "customer_type_2": "none",
+        "text_size": "featured_text",
+        "text_color": "",
+        "site_width": "mbl-site-width",
+        "html_id": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "wide_display": true,
+        "display_first_name": false,
+        "display_last_name": false,
+        "newsletter_title": "Subscribe",
+        "newsletter_text": "<p>Sign up to get the latest on sales, new releases and more …<\/p>",
+        "newsletter_section_text_align": "center",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "page-template",
+      "disabled": true,
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "1652295034e74bc08a",
+    "1652375715b1e9507b",
+    "16527302508a5ad94e",
+    "1652735440d704c89c",
+    "newsletter",
+    "main"
+  ]
+}

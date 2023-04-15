@@ -1,0 +1,72 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-template",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "165426329561a36e3e": {
+      "type": "featured-text",
+      "settings": {
+        "reveal-on": false,
+        "padding_top": 80,
+        "padding_bottom": 0,
+        "mobile-padding-top": 40,
+        "mobile-padding-bottom": 0,
+        "bg_color": "",
+        "heading_text_alignment": "center",
+        "title": "Request Service",
+        "paragraph_text_alignment": "center",
+        "content": "<p>Fireplace not working? Looking to add a remote? Hoping a good cleaning will make your fireplace look new? Recently moved homes and anxious for a fireplace inspection? We’d love to help! <\/p><p>Our expert service technicians know the ins and outs of your fireplace product and provide quality and professional maintenance and repair services. <\/p><p>To schedule a service appointment for fireplace repair, inspection, or preventative maintenance, please fill out our online form.<\/p>",
+        "button_text_alignment": "center",
+        "button_label": "",
+        "open-new-window": false,
+        "button_link": "",
+        "button_type": "white",
+        "customer_type": "none",
+        "button_label_2": "",
+        "open-new-window-two": false,
+        "button_link_2": "",
+        "button_type_2": "white",
+        "customer_type_2": "none",
+        "text_size": "featured_text",
+        "text_color": "",
+        "site_width": "sm-site-width",
+        "html_id": "",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1660232162c774b4db": {
+      "type": "klaviyo-request-service",
+      "disabled": true,
+      "settings": {
+        "heading": "Request Service",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16602386185a6080ad": {
+      "type": "custom-service-request",
+      "disabled": true,
+      "settings": {
+        "heading": "Service Request",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "7576fabb-9240-4a9a-9c89-62b47dda7502": {
+      "type": "request-service-form",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "165426329561a36e3e",
+    "1660232162c774b4db",
+    "16602386185a6080ad",
+    "7576fabb-9240-4a9a-9c89-62b47dda7502"
+  ]
+}

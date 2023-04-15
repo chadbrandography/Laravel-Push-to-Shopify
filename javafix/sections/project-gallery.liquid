@@ -1,0 +1,98 @@
+<!-- Project Gallery Template -->
+
+<div class="gallery-inner site-width {{ section.settings.css_class }}">
+  <ul class="no-list flex flex-wrap">
+  	{%- assign blocks = section.blocks -%}
+  	{% for block in blocks %}
+  	<li class="gallery col-4">
+  		<div class="inner">
+          <a class="orange helvetica" href="{{ block.settings.button_link }}">
+  			{%
+  				render 'image-element',
+				image: block.settings.image,
+  				alt: block.settings.image.alt,
+  			%}
+          </a>
+  			{% if block.settings.button_label != blank %}
+  			<div class="action">
+  				<a class="orange helvetica" href="{{ block.settings.button_link }}">{{ block.settings.button_label }}</a>
+  			</div>
+  			{% endif %}
+  		</div>
+  	</li>
+  	{% endfor %}
+  </ul>
+</div>
+
+{% schema %}
+  {
+    "name": "Project Gallery",
+    "tag": "section",
+    "class": "project-gallery",
+    "settings": [
+      {
+          "type": "header",
+          "content": "Advanced"
+      },
+      {
+          "type": "paragraph",
+          "content": "[Learn more](https://help.outofthesandbox.com/hc/en-us/articles/360022329373)"
+      },
+      {
+          "type": "text",
+          "id": "css_class",
+          "label": "CSS Class"
+      },
+      {
+          "type": "textarea",
+          "id": "custom_css",
+          "label": "Custom CSS"
+      }
+    ],
+    "blocks": [
+        {
+            "type": "text_block",
+            "name": "Panel",
+            "settings": [
+                {
+                    "type": "image_picker",
+                    "id": "image",
+                    "label": "Image"
+                },
+                {
+                    "type": "text",
+                    "id": "button_label",
+                    "label": "Link label"
+                },
+                {
+                    "type": "url",
+                    "id": "button_link",
+                    "label": "Link URL"
+                }
+            ]
+        }
+    ],
+    "presets": [
+      {
+        "name": "Project Gallery",
+        "category": "ADVANCED LAYOUT"
+      }
+    ]
+  }
+{% endschema %}
+
+<style>
+	.project-gallery { background-color: rgba(82,88,102,0.08); }
+ 	.gallery-inner { padding-top: 80px; padding-bottom: 80px; }
+ 	.gallery-inner ul { margin: -15px; }
+ 	.gallery-inner ul li { padding: 15px; }
+ 	.gallery-inner ul li .action a { display: inline-block; padding-top: 8px; }
+</style>
+
+{% style %}
+    {%
+      render 'css-loop',
+      css: section.settings.custom_css,
+      id: section.id
+    %}
+{% endstyle %}

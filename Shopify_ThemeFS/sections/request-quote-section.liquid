@@ -1,0 +1,75 @@
+{% stylesheet %}
+  .flex-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .flex-item-50 {
+    flex: 50%;
+    padding: 5px;
+  }
+
+  .modal {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,.75);
+    margin: 0;
+  }
+
+  /* Modal Content/Box */
+  .modal-content {
+    position: relative;
+    background-color: #f9f9f9;
+    margin: 5% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    max-width: 800px;
+    border-radius: 6px;
+  }
+
+  #request_quote_submit {
+      padding-bottom: 10px;
+  }
+
+  #modal-message p {
+    color: #994545;
+  }
+
+  .modal input {
+    border: 1px solid #3d484e;
+    border-radius: 6px;
+    height: 44px;
+  }
+
+  .modal select {
+    border: 1px solid #3d484e;
+    border-radius: 6px;
+  }
+
+  .modal textarea {
+    border: 1px solid #3d484e;
+    border-radius: 6px;
+  }
+{% endstylesheet %}
+
+  <div id="requestQuoteModal" style="display:none; scroll-padding-top: 4rem;">
+    {formbuilder:OTc2NzA=}
+  </div>
+{% schema %}
+  {
+    "name": "Request A Quote",
+    "settings": [],
+    "presets": [
+      {
+        "name": "Request A Quote"
+      }
+    ]
+  }
+{% endschema %}

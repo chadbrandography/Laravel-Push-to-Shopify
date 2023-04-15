@@ -1,0 +1,35 @@
+<script>
+  const zipInput = document.querySelector('input[name="zip"]');
+  const submitBtn = document.querySelector('input[type="submit"]');
+  let zipCodes = [];
+
+  // Fetch the zip codes from the file
+  fetch("https://firesidezip.brandography.net/ecommzips.txt")
+    .then(response => response.text())
+    .then(text => {
+      zipCodes = text.split("\n");
+    });
+
+  // Check if the input zip code and the ecomm tag match the criteria
+  const checkZipAndTag = () => {
+    if (!zipCodes.includes(zipInput.value)) {
+      alert("Sorry, this product is not available in your area.");
+      return false;
+    }
+    const productTags = document.querySelector('meta[property="product:tag"]').content;
+    if (!productTags.includes("ecomm")) {
+      alert("Sorry, this product is not available for ecommerce sales.");
+      return false;
+    }
+    return true;
+  };
+
+  // Add the event listener to the submit button
+  submitBtn.addEventListener("click", event => {
+    event.preventDefault();
+    if (!checkZipAndTag()) {
+      return;
+    }
+    document.querySelector("form").submit();
+  });
+</script>
